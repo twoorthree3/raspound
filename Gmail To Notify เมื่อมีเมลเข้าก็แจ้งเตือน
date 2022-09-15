@@ -1,4 +1,4 @@
-var lineToken = "xxxxxxxxIcznbMwe3gAvk7X0nNsGVw11Ti"; 
+var lineToken = "RCJ1jqNH1DEE84lOACdxpY3ID9yNdNuo0rLOFB81SL5"; 
 var get_interval = 30; 
 
 function send_line(Me){
